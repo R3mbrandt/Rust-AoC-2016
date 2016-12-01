@@ -77,7 +77,7 @@ fn main() {
              end_x,
              end_y,
              end_x.abs() + end_y.abs());
-    println!("{:?}", pos);
+    // println!("{:?}", pos);
 
     let mut start_pos = (0, 0);
     let mut h_set = HashSet::new();
