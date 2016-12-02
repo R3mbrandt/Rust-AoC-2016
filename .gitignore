@@ -6,3 +6,4 @@
 # More information here http://doc.crates.io/guide.html#cargotoml-vs-cargolock
 Cargo.lock
 /day1/target/
+/day2/target/
